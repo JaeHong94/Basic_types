@@ -1,0 +1,23 @@
+{
+  "name": "Basic_types",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "tsc -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JaeHong94/Basic_types.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JaeHong94/Basic_types/issues"
+  },
+  "homepage": "https://github.com/JaeHong94/Basic_types#readme",
+  "devDependencies": {
+    "typescript": "^4.3.4"
+  }
+}
