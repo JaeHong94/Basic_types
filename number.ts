@@ -1,0 +1,12 @@
+let decimal: number = 6;
+console.log(decimal);
+let hex: number = 0xf00d;
+console.log(hex);
+let binary: number = 0b1010;
+console.log(binary);
+let octal: number = 0o744;
+console.log(octal);
+let notANumber: number = NaN;
+console.log(notANumber);
+let underScoreNum: number = 1_000_000;
+console.log(underScoreNum);
